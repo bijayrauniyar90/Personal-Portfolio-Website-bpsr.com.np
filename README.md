@@ -1,4 +1,4 @@
-# Personal-Portfolio-Website-bpsr.com.np
+# Personal-Portfolio-Website
 HTML, CSS, JavaScript
 
 Created a personal portfolio website using HTML and CSS to showcase skills and projects.
